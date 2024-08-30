@@ -40,7 +40,7 @@ class Hashing1{
         System.out.println("The size of the set is "+set.size());
         
         //iterator in hashset has two functions- 
-        //it.next() gives the next value of set & it.hasNext() checks if the set has further values
+        //next() gives the next element of set whereas hasNext() returns true if the set has further element in it
         
         //create
         Iterator it=set.iterator();
