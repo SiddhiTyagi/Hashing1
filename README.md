@@ -1,4 +1,4 @@
-# Hashing1
+# HashSet
 import java.util.HashSet;   // to use HashSet
 import java.util.Iterator;   // to use Iterator
 class Hashing1{
